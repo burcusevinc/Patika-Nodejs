@@ -1,0 +1,22 @@
+{
+  "name": "patika-nodejs-homeworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burcusevinc/Patika-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burcusevinc/Patika-Nodejs/issues"
+  },
+  "homepage": "https://github.com/burcusevinc/Patika-Nodejs#readme",
+  "dependencies": {
+    "koa": "^2.14.1"
+  }
+}
